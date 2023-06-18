@@ -1,0 +1,15 @@
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\bin\Debug\HTTP Shell Backdoor.exe.config
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\bin\Debug\HTTP Shell Backdoor.exe
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\bin\Debug\HTTP Shell Backdoor.pdb
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\obj\Debug\HTTP Shell Backdoor.csprojAssemblyReference.cache
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\obj\Debug\HTTP_Shell_Backdoor.Form1.resources
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\obj\Debug\HTTP_Shell_Backdoor.Properties.Resources.resources
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\obj\Debug\HTTP Shell Backdoor.csproj.GenerateResource.cache
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\obj\Debug\HTTP Shell Backdoor.csproj.CoreCompileInputs.cache
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\obj\Debug\HTTP Shell Backdoor.exe
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\obj\Debug\HTTP Shell Backdoor.pdb
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\bin\Debug\Leaf.xNet.dll
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\bin\Debug\Leaf.xNet.xml
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\obj\Debug\HTTP Shell Backdoor.csproj.CopyComplete
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mf4Tn\source\repos\HTTP Shell Backdoor\HTTP Shell Backdoor\bin\Debug\Newtonsoft.Json.xml
