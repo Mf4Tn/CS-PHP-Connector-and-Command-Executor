@@ -1,4 +1,4 @@
-                                          - PHP Server Connector and Command Executor -
+                                       - C# & PHP Server Connector and Command Executor -
 
 This C# tool is designed to establish a connection between your application and a server using the HTTP protocol. With a simple click of a button, you can connect to the server by utilizing a PHP file hosted on your server. The tool allows you to execute system commands on the server and retrieve the responses directly in your application.
 
